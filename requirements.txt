@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+autograd
+jupyter
+matplotlib
+pandas
