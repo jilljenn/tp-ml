@@ -1,6 +1,9 @@
 numpy
 scikit-learn
-autograd
+# autograd
 jupyter
 matplotlib
-pandas
+# pandas
+# tensorflow
+torch
+torchvision
