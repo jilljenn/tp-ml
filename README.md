@@ -2,13 +2,14 @@
 
 Download this repository.
 
-On Windows, install Miniconda Python 3.7 and open the Powershell.  
-On Ubuntu, you may have to install pip3:
+On Windows, install Miniconda Python 3.10 and open the Powershell.  
+On Ubuntu, you may have to install pip3 with `sudo apt install python3-pip`.
 
-    sudo apt install python3-pip
+    make
+    python -m notebook
 
-Then:
+I do not endorse Google however this button may make your life easier:
 
-    cd tp-ml-master
-	pip3 install -r requirements.txt  # or pip in Miniconda
-	python -m notebook
+<a target="_blank" href="https://colab.research.google.com/github/jilljenn/tp-ml/blob/master/cats.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
