@@ -1,4 +1,5 @@
 all: venv dogscats
+# nbqa pylint --disable=C0413,C0103,W0621 mlp.ipynb
 
 venv:
 	python -m venv venv
