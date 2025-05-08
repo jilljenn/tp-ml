@@ -80,7 +80,7 @@ Alice is \alert{closer} to Charles than Bob
 
 \begin{center}
 \begin{tabular}{c@{\hspace{2mm}}|c@{\hspace{2mm}}c@{\hspace{2mm}}c@{\hspace{2mm}}c@{\hspace{2mm}}c}
-& Alice & Bob & Charles & Daisy & JJ\\
+& Alice & Bob & Charles & Daisy & Everett\\
 \hline
 Alice & $4$ & $-3$ & $2$ & $1$ & $3$\\
 Bob & $-3$ & $5$ & $-3$ & $-1$ & $-2$\\
