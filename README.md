@@ -11,7 +11,7 @@
 - [{CNN or perceptron} on {faces or cats & dogs} datasets](cats.ipynb)
 - [MLP on {digits or faces or wine or cats & dogs} datasets](mlp.ipynb)
 - [Doudou le hamster surveillé, Viterbi algorithm](tp5/Doudou%20le%20hamster%20surveill%C3%A9.ipynb)
-- GPT
+- [GPT](TD5_2025_GPT.ipynb)
 
 ## External
 
